@@ -1,0 +1,28 @@
+.box{
+  text-align: center;
+  background-image: linear-gradient(skyblue,lightpink,white);
+  width: 100vw;
+  height: 100vh;
+}
+#btn{
+  border-radius: 40px;
+  width: 220px;
+  height: 50px; 
+  display: inline;
+  margin-right: 80px;
+  text-align: center;
+  bottom: 120px;
+  
+}
+.heading{
+  text-align: center;
+  text-shadow:2px 2px aqua;
+  color:black;
+}
+.box1{
+  justify-content: space-between;
+  display: flex;
+  
+
+}
+  
